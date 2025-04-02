@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d8fff5ae9a3654d6",
+        "id": "9bcfff5b078287ad",
         "type": "tabs",
         "children": [
           {
-            "id": "455c12c0dd6c3cb4",
+            "id": "798fa879d73280d4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 353.5
   },
   "right": {
     "id": "914fd42b12ed3d2d",
@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 475.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,12 +162,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "455c12c0dd6c3cb4",
+  "active": "798fa879d73280d4",
   "lastOpenFiles": [
-    "ChatGPT/Proiezione.md",
-    "ChatGPT/Chi lotta contro i mostri.md",
+    "ChatGPT/Pulsione di morte.md",
     "Citazioni.md",
     "La Persecuzione del bambino.md",
+    "ChatGPT/Proiezione.md",
+    "ChatGPT/Chi lotta contro i mostri.md",
     "Wikipedia/Alice Miller.md",
     "ChatGPT/Attrazione Verso le caratteristiche delle figure genitoriali.md",
     "ChatGPT/Complesso di Edipo.md",
